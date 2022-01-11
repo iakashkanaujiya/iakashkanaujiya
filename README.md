@@ -2,9 +2,11 @@
     <h1 align="center">Hi there, I'm Akash Kanaujiya <img src="./gif/Hi.gif" width="30px"></h1>
     <h3 align="center">Web Developer | Android Developer | Coder </h3>
 </div>
+<br/>
+<br/>
 
 <!-- About section -->
-<h2 style="margin-bottom: 20px">Something about me:</h2>
+<h2>Something about me:</h2>
 <ul>
     <li>
         <span style="margin-right: 10px">👋</span>
@@ -26,10 +28,12 @@
         <a href="mailto:iakashkanaujiya@gmail.com">iakashkanaujiya@gmail.com</a>
     </li>
 </ul>
+<br/>
+<br/>
 
 <!-- Social Media -->
-<h2 style="margin-top: 40px; margin-bottom: 20px">Lets Connect🤝</h2>
-<div style="padding-bottom: 40px">
+<h2>Lets Connect🤝</h2>
+<div style="padding: 20px 0">
     <a href="https://github.com/iakashkanaujiya">
         <img style="margin-right: 20px;" align="left" alt="iakashkanaujiya" width="40px" src="./svgs/github.svg"/>
     </a>
@@ -41,10 +45,11 @@
     </a>
 </div>
 <br/>
+<br/>
 
 <!-- Tools and Tech used -->
-<h2 style="margin-bottom: 20px">Tools and Techs Used by me 👇</h2>
-<div>
+<h2>Tools and Techs Used by me 👇</h2>
+<div style="padding: 40px 0;">
     <!-- React -->
     <img style="margin-right: 20px" align="left" alt="React" width="40px" src="./svgs/react-js.svg" />
     <!-- Next Js -->
@@ -61,11 +66,8 @@
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <!-- Lang used status -->
 <h2>⚡ Top languages:</h2>
-<br/>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashkanaujiya&langs_count=10&theme=light&layout=compact" alt="Muskaan's :: Top Langs" /></p>
