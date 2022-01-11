@@ -29,11 +29,11 @@
     </li>
 </ul>
 <br/>
-<br/>
 
 <!-- Social Media -->
 <h2>Lets Connect🤝</h2>
-<div style="padding: 20px 0">
+<br/>
+<div>
     <a href="https://github.com/iakashkanaujiya">
         <img style="margin-right: 20px;" align="left" alt="iakashkanaujiya" width="40px" src="./svgs/github.svg"/>
     </a>
@@ -46,10 +46,12 @@
 </div>
 <br/>
 <br/>
+<br/>
 
 <!-- Tools and Tech used -->
 <h2>Tools and Techs Used by me 👇</h2>
-<div style="padding: 40px 0;">
+<br/>
+<div>
     <!-- React -->
     <img style="margin-right: 20px" align="left" alt="React" width="40px" src="./svgs/react-js.svg" />
     <!-- Next Js -->
@@ -64,6 +66,7 @@
     <img style="margin-right: 20px;" align="left" alt="MongoDB" width="120px" src="./svgs/mongodb.svg"/>
     <img style="margin-right: 20px" align="left" alt="flutter" width="30px" src="./svgs/flutter.svg" />
 </div>
+<br/>
 <br/>
 <br/>
 
