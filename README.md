@@ -16,7 +16,7 @@
     <li><span style="margin-right: 10px">👀</span>I’m interested in full-stack web development, Machine Learning, Software Development, and leading business.</li>
     <li>
         <span style="margin-right: 10px">🌱</span>
-        I’m currently learning Software Development and Machine Learning.
+        I’m currently working as Software Engineer 1.
     </li>
     <li>
         <span style="margin-right: 10px">💞️ </span>
@@ -29,8 +29,3 @@
     </li>
 </ul>
 <br/>
-
-<!-- Lang used status -->
-<h2>⚡ Top languages:</h2>
-
-<p><img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakashkanaujiya&langs_count=10&theme=light&layout=compact" alt="Muskaan's :: Top Langs" /></p>
