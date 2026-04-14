@@ -22,5 +22,5 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin)](https://www.linkedin.com/in/akash-kanaujiya-9377b7216/)
-[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail)](mailto:connect@akanaujiy.com)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail)](mailto:contact@akanaujiya.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github)](https://github.com/iakashkanaujiya)
