@@ -15,9 +15,12 @@
 ---
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iakashkanaujiya\&theme=github-compact)
+![img](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iakashkanaujiya&theme=solarized)
+![img](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iakashkanaujiya&theme=solarized_dark)
 
 ---
+
+![img](https://count.getloli.com/get/@iakashkanaujiya?theme=rule34)
 
 ## 📫 Connect With Me
 
